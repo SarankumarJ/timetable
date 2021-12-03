@@ -33,8 +33,12 @@ s</style>
    <head>
       <title>TIME TABLE</title>
    </head>
-	
    <body>
+     <center>
+   <img src="http://saveetha.ac.in/images/WEB_LOGO-01.png" width=800 height="130" alt="LOGO"/>
+   </center>
+      <table border = "1" cellspacing="1" bgcolor="white" align="center">
+         </tr>
     <h1>Name:J.Sarankumar<br>
     Reference No:21500780<br>
     Department:Artificial Intelligence and Data Science</h1>
@@ -116,7 +120,13 @@ s</style>
 
 
 
+
+
+
+
+
 ~~~
 # OUPUT
 ![gitlogo](./timetable.png)
+
 
