@@ -114,9 +114,7 @@ s</style>
    </body>
 </html>
 
-## Result:
 
-Time Table Created Successfully Created
 
 
 
@@ -132,3 +130,7 @@ Time Table Created Successfully Created
 ![gitlogo](./timetable.png)
 
 
+
+## Result:
+
+Time Table Created Successfully Created
